@@ -1,9 +1,10 @@
 from tkinter import *
 
-root = Tk()
+gui = Tk()
 
-root.title("Quiz Game")
-root.geometry('1920x1080')
 
-root.mainloop()
+gui.title("Quiz Game")
+gui.geometry('1920x1080')
+
+gui.mainloop()
 
