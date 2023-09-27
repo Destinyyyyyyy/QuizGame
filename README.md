@@ -1,4 +1,1 @@
-# QuizGame
-Mini Project
-#HelloHello
-<!-- aaaa -->
+print("aaa)
